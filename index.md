@@ -1,3 +1,36 @@
+<div style="page-break-before:always"></div>
+
+#### Personal Projects
+##### Terraform
+* [Terraform scripts and notes.](https://rajkumar-aute.github.io/terraform/){:target="_blank"}
+
+##### Kubernetes
+* [Terraform scripts for Kubernetes Master and node infra setup on AWS.](https://rajkumar-aute.github.io/terraform-kubernetes/){:target="_blank"}
+
+* [Kubernetes scripts and notes.](https://rajkumar-aute.github.io/kubernetes/){:target="_blank"}
+
+##### Jenkins
+* [Terraform Scripts for Jenkins server setup on AWS.](https://rajkumar-aute.github.io/terraform-jenkins/){:target="_blank"}
+
+##### Ansible
+* [Terraform scripts for Ansible Master setup.](https://rajkumar-aute.github.io/terraform-ansible/){:target="_blank"}
+
+* [Ansible scripts and notes.](https://rajkumar-aute.github.io/ansible/){:target="_blank"}
+
+##### Bash scripts
+* [Docker installation script for CentOS7.](https://rajkumar-aute.github.io/docker_install-centos7/){:target="_blank"}
+
+* [Docker engine installation on any Linux Flavor.](https://rajkumar-aute.github.io/docker-linux/){:target="_blank"}
+
+* [Tomcat 9 installtion script for Ubuntu](https://rajkumar-aute.github.io/tomcat9-ubuntu-script/){:target="_blank"}
+
+
+<font size="6">  </font>
+<!--- commit -->
+
+
+
+<!-- >
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/Rajkumar-Aute/rajkumar/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
