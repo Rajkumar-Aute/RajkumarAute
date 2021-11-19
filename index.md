@@ -23,7 +23,7 @@
 
 <div style="page-break-before:always"></div>
 
-[.](https://rajkumar-aute.github.io/Rajkumar-Aute/)
+[.](https://rajkumar-aute.github.io/Rajkumar-Aute/){:target="_blank"}
 
 <font size="6">  </font>
 
