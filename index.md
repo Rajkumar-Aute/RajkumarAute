@@ -30,7 +30,7 @@
 
 <font size="6">  </font>
 
-<link rel="shortcut icon" href="{./image/resume.png}" />
+<link rel="shortcut icon" href="./image/resume.png" />
 
 <!--- commit -->
 
