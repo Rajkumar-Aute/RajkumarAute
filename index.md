@@ -30,7 +30,7 @@
 
 <font size="6">  </font>
 
-<link rel="shortcut icon" href="./image/resume.png" />
+<link rel="shortcut icon" href="[./image/resume.png](https://st2.depositphotos.com/5142301/7852/v/600/depositphotos_78526632-stock-illustration-r-letter-logo-design-template.jpg)" />
 
 <!--- commit -->
 
